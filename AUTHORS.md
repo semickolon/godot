@@ -1,5 +1,6 @@
 # Godot Engine authors
 
+
 Godot Engine is developed by a community of voluntary contributors who
 contribute code, bug reports, documentation, artwork, support, etc.
 
