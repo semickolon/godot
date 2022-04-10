@@ -74,7 +74,7 @@ struct MemoryPool {
 	static size_t total_memory;
 	static size_t max_memory;
 
-	static void setup(uint32_t p_max_allocs = (1 << 24));
+	static void setup(uint32_t p_max_allocs = (1 << 20));
 	static void cleanup();
 };
 
